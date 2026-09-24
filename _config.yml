@@ -1,6 +1,12 @@
-title: Minimal theme
-logo: /assets/img/logo.png
-description: Minimal is a theme for GitHub Pages.
+title: Elise Wallace
+logo: /assets/img/ewheadshot.jpg
+description: What I care about most in my work is helping the people around me grow. I have always been drawn to environments where team members mentor one another, share what they know, and build each other up. For me, professional success isn't just about hitting targets. It's about making sure the people I work with have the tools, confidence, and support they need to thrive.
+
+In my career across account management, operations, and analytics, I have managed high revenue accounts and complex business processes. What I enjoy most about this work is taking complicated data, messy workflows, or technical tools and breaking them down so they actually make sense to everyone involved. I love being the person people turn to when they want to learn something new, work through a tricky problem, or figure out a better way to get things done.
+
+Managing multi-million dollar revenue streams has taught me that strong business outcomes start with a supportive team culture. I focus on creating spaces where people feel comfortable asking questions, learning from mistakes, and developing their skills.
+
+Whether I am supporting a high-stakes account, guiding a teammate through a new process, or helping cross-functional partners make sense of data, my goal is always to leave people better equipped than I found them.
 show_downloads: true
 google_analytics:
 theme: jekyll-theme-minimal
