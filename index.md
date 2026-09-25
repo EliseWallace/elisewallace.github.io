@@ -1,123 +1,19 @@
----
-layout: default
----
+## About Elise Wallace
 
-Text can be **bold**, _italic_, or ~~strikethrough~~.
+I am a data-driven Senior Account Manager and MS in Business Analytics graduate student specializing in transforming complex operational and financial data into actionable strategy while empowering teams to build technical confidence.
 
-[Link to another page](./another-page.html).
+## Education
 
-There should be whitespace between paragraphs.
+**M.S., Business Analytics**
+*California State University San Marcos*
 
-There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.
+**B.S., Business Administration – Global Supply Chain Management**
+*California State University San Marcos*
++ GSCM Outstanding Student of the Year, 2020
++ James R. Meindl Student Leadership Award Recipient, 2020
 
-# Header 1
+## What Drives Me
 
-This is a normal paragraph following a header. GitHub is a code hosting platform for version control and collaboration. It lets you and others work together on projects from anywhere.
+For me, business analytics is only as powerful as the decisions and people it elevates. Throughout my career managing multi-million dollar account operations and streamlining enterprise workflows, I’ve found that true impact happens at the intersection of rigorous data analysis and team enablement.
 
-## Header 2
-
-> This is a blockquote following a header.
->
-> When something is important enough, you do it even if the odds are not in your favor.
-
-### Header 3
-
-```js
-// Javascript code with syntax highlighting.
-var fun = function lang(l) {
-  dateformat.i18n = require('./lang/' + l)
-  return true;
-}
-```
-
-```ruby
-# Ruby code with syntax highlighting
-GitHubPages::Dependencies.gems.each do |gem, version|
-  s.add_dependency(gem, "= #{version}")
-end
-```
-
-#### Header 4
-
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
-
-##### Header 5
-
-1.  This is an ordered list following a header.
-2.  This is an ordered list following a header.
-3.  This is an ordered list following a header.
-
-###### Header 6
-
-| head1        | head two          | three |
-|:-------------|:------------------|:------|
-| ok           | good swedish fish | nice  |
-| out of stock | good and plenty   | nice  |
-| ok           | good `oreos`      | hmm   |
-| ok           | good `zoute` drop | yumm  |
-
-### There's a horizontal rule below this.
-
-* * *
-
-### Here is an unordered list:
-
-*   Item foo
-*   Item bar
-*   Item baz
-*   Item zip
-
-### And an ordered list:
-
-1.  Item one
-1.  Item two
-1.  Item three
-1.  Item four
-
-### And a nested list:
-
-- level 1 item
-  - level 2 item
-  - level 2 item
-    - level 3 item
-    - level 3 item
-- level 1 item
-  - level 2 item
-  - level 2 item
-  - level 2 item
-- level 1 item
-  - level 2 item
-  - level 2 item
-- level 1 item
-
-### Small image
-
-![Octocat](https://github.githubassets.com/images/icons/emoji/octocat.png)
-
-### Large image
-
-![Branching](https://guides.github.com/activities/hello-world/branching.png)
-
-
-### Definition lists can be used with HTML syntax.
-
-<dl>
-<dt>Name</dt>
-<dd>Godzilla</dd>
-<dt>Born</dt>
-<dd>1952</dd>
-<dt>Birthplace</dt>
-<dd>Japan</dd>
-<dt>Color</dt>
-<dd>Green</dd>
-</dl>
-
-```
-Long, single-line code blocks should not wrap. They should horizontally scroll if they are too long. This line should be long enough to demonstrate this.
-```
-
-```
-The final element.
-```
+I thrive on taking messy data sets, intricate forecasting models, and technical tools and distilling them into clear, actionable insights for cross-functional partners. Beyond hitting key performance metrics, my primary focus is fostering a collaborative environment where team members share knowledge, learn from complex problems, and continuously build their analytics capabilities. Whether I am architecting data solutions for high-stakes business processes or walking a teammate through a new analytical model, my goal is always to deliver clarity and leave people better equipped to drive success.
