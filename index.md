@@ -1,6 +1,6 @@
 ## About Elise Wallace
 
-I am a data-driven Senior Account Manager and MS in Business Analytics graduate student specializing in transforming complex operational and financial data into actionable strategy while empowering teams to build technical confidence.
+I am a data-driven Senior Account Manager and business analytics graduate student specializing in transforming complex operational and financial data into actionable strategy while empowering teams to build technical confidence.
 
 ## Education
 
