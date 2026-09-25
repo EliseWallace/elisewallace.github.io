@@ -49,31 +49,31 @@ I thrive on taking messy data sets, intricate forecasting models, and technical 
 + Identifying and troubleshooting samples received with insufficient information or insufficient sample quantity, including handling of resolution documentation, re-processing samples, or rejecting samples.
 
 ## Professional Affiliations and Service
-**OSBA Advisory Council, California State University San Marcos**
+**OSBA Advisory Council, California State University San Marcos**\
 *Aug 2022 - Present*
 
-**Career Coach, California State University San Marcos**
+**Career Coach, California State University San Marcos**\
 *Sep 2021 - Aug 2023*
 
 ## Education
 
 **California State University San Marcos**\
-*Master of Science, Business Analytics*\
-Aug 2026 - Aug 2027 (*expected*)
+Master of Science, Business Analytics\
+*Aug 2026 - Aug 2027 (expected)*
 
 **California State University San Marcos**\
-*Bachelor of Science, Business Administration – Global Supply Chain Management*\
-Aug 2018 - May 2020
+Bachelor of Science, Business Administration – Global Supply Chain Management\
+*Aug 2018 - May 2020*
 + GSCM Outstanding Student of the Year, 2020
 + James R. Meindl Student Leadership Award Recipient, 2020
 + President, Global Supply Chain Management Society
 
 **Palomar College**\
-*Associate's Degree, Business Administration*\
-Aug 2016 - May 2018
+Associate's Degree, Business Administration\
+*Aug 2016 - May 2018*
 
 **University of California, San Diego**\
-*Biochemistry*\
-Sep 2008 - Mar 2010
+Biochemistry\
+*Sep 2008 - Mar 2010*
 
 ## Completed Projects
