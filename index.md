@@ -4,10 +4,10 @@ I am a data-driven Senior Account Manager and MS in Business Analytics graduate 
 
 ## Education
 
-**M.S., Business Analytics**
+**M.S., Business Analytics**\
 *California State University San Marcos*
 
-**B.S., Business Administration – Global Supply Chain Management**
+**B.S., Business Administration – Global Supply Chain Management**\
 *California State University San Marcos*
 + GSCM Outstanding Student of the Year, 2020
 + James R. Meindl Student Leadership Award Recipient, 2020
