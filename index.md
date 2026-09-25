@@ -59,7 +59,7 @@ I thrive on taking messy data sets, intricate forecasting models, and technical 
 
 **California State University San Marcos**\
 *Master of Science, Business Analytics*\
-Aug 2026 - Aug 2027 "("*expected*")"
+Aug 2026 - Aug 2027 (*expected*)
 
 **California State University San Marcos**\
 *Bachelor of Science, Business Administration – Global Supply Chain Management*\
