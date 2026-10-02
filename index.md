@@ -9,8 +9,8 @@ For me, business analytics is only as powerful as the decisions and people it el
 I thrive on taking messy data sets, intricate forecasting models, and technical tools and distilling them into clear, actionable insights for cross-functional partners. Beyond hitting key performance metrics, my primary focus is fostering a collaborative environment where team members share knowledge, learn from complex problems, and continuously build their analytics capabilities. Whether I am architecting data solutions for high-stakes business processes or walking a teammate through a new analytical model, my goal is always to deliver clarity and leave people better equipped to drive success.
 
 ## Work Experience
-
-(/assets/img/Amkor_logo.jpg)
+\
+![Amkor Logo](/assets/img/Amkor_logo_resized.jpg)
 ### Amkor Technology
 **Senior Account Manager**\
 *Mar 2026 - Present*
@@ -32,7 +32,9 @@ I thrive on taking messy data sets, intricate forecasting models, and technical 
 + Managed New Product Introduction (NPI) material orders and accurately tracked Non-Recurring Engineering (NRE) costs, rebates, and billing schedules
 + Resolved complex pricing, invoicing, and order discrepancies by liaising between Finance, Operations, and Supply Chain teams
 
-(/assets/img/thermo_logo.png)
+\
+\
+![Thermo Logo](/assets/img/thermo_logo_resized.png)
 ### Thermo Fisher Scientific
 **Business Intelligence Intern**\
 *May 2019 - May 2020*
@@ -40,7 +42,9 @@ I thrive on taking messy data sets, intricate forecasting models, and technical 
 + Incorporating machine learning predictive analytics into existing dashboards and reports to proactively decrease operational costs and increase customer allegiance
 + Implementing best practices for data sources to reduce refresh loads and increase utility by creating dataflows and datasets to promote cloud-based computing
 
-(/assets/img/mh_logo)
+\
+\
+![Thermo Logo](/assets/img/mh_logo_resized.png)
 ### Millennium Health
 **Team Lead, Client Services**\
 *Jun 2014 - Aug 2018*
