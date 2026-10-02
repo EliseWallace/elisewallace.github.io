@@ -10,7 +10,7 @@ I thrive on taking messy data sets, intricate forecasting models, and technical 
 
 ## Work Experience
 
-/assets/img/Amkor_logo.jpg
+(/assets/img/Amkor_logo.jpg)
 ### Amkor Technology
 **Senior Account Manager**\
 *Mar 2026 - Present*
@@ -32,7 +32,7 @@ I thrive on taking messy data sets, intricate forecasting models, and technical 
 + Managed New Product Introduction (NPI) material orders and accurately tracked Non-Recurring Engineering (NRE) costs, rebates, and billing schedules
 + Resolved complex pricing, invoicing, and order discrepancies by liaising between Finance, Operations, and Supply Chain teams
 
-/assets/img/thermo_logo.png
+(/assets/img/thermo_logo.png)
 ### Thermo Fisher Scientific
 **Business Intelligence Intern**\
 *May 2019 - May 2020*
@@ -40,7 +40,7 @@ I thrive on taking messy data sets, intricate forecasting models, and technical 
 + Incorporating machine learning predictive analytics into existing dashboards and reports to proactively decrease operational costs and increase customer allegiance
 + Implementing best practices for data sources to reduce refresh loads and increase utility by creating dataflows and datasets to promote cloud-based computing
 
-/assets/img/mh_logo
+(/assets/img/mh_logo)
 ### Millennium Health
 **Team Lead, Client Services**\
 *Jun 2014 - Aug 2018*
