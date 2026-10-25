@@ -188,3 +188,7 @@ Now, we want to make sure that we are updating the README section. This should c
 - Go to **GitHub.com** and locate your README.md file in your repository.
 - Use markdown language to update the contents.
 - Commit changes.
+
+# Final Screenshot of Portfolio
+Below is a screenshot of my final portfolio page!
+![myportfolioscreenshot](/assets/img/portfolioscreenshot.png)
