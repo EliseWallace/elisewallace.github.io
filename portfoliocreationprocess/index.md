@@ -182,3 +182,9 @@ Biochemistry\
 
 ## Step 9: Verify Your Live Webpage
 Once your changes have been committed, visit your life site at **`https://<your_github_username>.github.io/`** to view your completed portfolio.
+
+## Step 10: Update README file
+Now, we want to make sure that we are updating the README section. This should contain a brief description of what this repository is, any pertinent information that you would like your viewers to know, and any references that you may have used. 
+- Go to **GitHub.com** and locate your README.md file in your repository.
+- Use markdown language to update the contents.
+- Commit changes.
