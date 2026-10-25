@@ -23,8 +23,7 @@ To acquire the same template and theme, you will need to download the theme asse
 - Click on the green **Code** button near the top right of the file list.
 - Select **Download ZIP** from the dropdown menu to save the theme archive to your computer.
   - Since this is a ZIP file, you can download it to your *Downloads* folders for now, as we will extract the files to your repository. \
-
-![Screenshot download minimal theme from github page](/assets/img/DownloadTheme.png)
+    ![Screenshot download minimal theme from github page](/assets/img/DownloadTheme.png)
 
 ## Step 4: Log In to GitHub Desktop and Mirror/Clone the Repository
 Next, you want to me able to bring your newly created repository down to your local machine using GitHub Desktop.
