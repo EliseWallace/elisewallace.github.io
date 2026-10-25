@@ -85,4 +85,4 @@ Biochemistry\
 *Sep 2008 - Mar 2010*
 
 ## Completed Projects
-[View my portfolio guide](/subpage_1)
+[View my portfolio guide](/portfoliocreationprocess)
