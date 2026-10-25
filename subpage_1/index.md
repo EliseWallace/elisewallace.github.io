@@ -173,5 +173,6 @@ Biochemistry\
 ## Completed Projects
 [View my portfolio guide](/subpage_1)
 ```
+
 ## Step 9: Verify Your Live Webpage
 Once your changes have been committed, visit your life site at **https://<your_github_username>.github.io/** to view your completed portfolio.
