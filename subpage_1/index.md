@@ -9,7 +9,7 @@ GitHub Pages requires a specific repository naming convention to automatically h
 - Create a new public repositoryon GitHub.com by clicking on the **+** icon in the top right corner and select **New repository**. \
 ![Screenshot of where to create a new repository on github.com](/assets/img/CreateRepositoryWeb.png)
 
-  - Name your repository **'<your_username>.github.io'** 
+  - Name your repository **`<your_username>.github.io`** 
     - *If this is a public portfolio, select a username that is appropriate**
 - Set the repository to **Public**, do not select a "README" at this time (since we will replace the one from the theme we will download) and select the appropriate license.
   - If you will be creating a new repository but not using a theme, please make sure that you are select the **ADD README** option as **ON**.
@@ -181,4 +181,4 @@ Biochemistry\
 ````
 
 ## Step 9: Verify Your Live Webpage
-Once your changes have been committed, visit your life site at **'https://<your_github_username>.github.io/'** to view your completed portfolio.
+Once your changes have been committed, visit your life site at **`https://<your_github_username>.github.io/`** to view your completed portfolio.
