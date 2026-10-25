@@ -83,7 +83,7 @@ Next, we want to open the **index.md** file, which should be housed in the same 
 - Use [markdown](https://www.markdownguide.org/) language to create your content.
 - If you are adding any pictures, please make sure to add your photos to your assets > img folders and follow Step 6.
 - For full visibility, my full markdown code is below:
-```
+```markdown
 ## About Elise Wallace
 
 I am a data-driven Senior Account Manager and business analytics graduate student specializing in transforming complex operational and financial data into actionable strategy while empowering teams to build technical confidence.
@@ -171,7 +171,6 @@ Biochemistry\
 *Sep 2008 - Mar 2010*
 
 ## Completed Projects
-[View my portfolio guide](/subpage_1)
 ```
 
 ## Step 9: Verify Your Live Webpage
