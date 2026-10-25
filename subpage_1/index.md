@@ -7,7 +7,8 @@ Before building the site, you will need to create a GitHub account and also down
 ## Step 2: Create your GitHub Pages Repository
 GitHub Pages requires a specific repository naming convention to automatically host your site:
 - Create a new public repositoryon GitHub.com by clicking on the **+** icon in the top right corner and select **New repository**. \
-![Screenshot of where to create a new repository on github.com](/assets/img/CreateRepositoryWeb.png) \
+![Screenshot of where to create a new repository on github.com](/assets/img/CreateRepositoryWeb.png)
+
   - Name your repository **'<your_username>.github.io'** 
     - *If this is a public portfolio, select a username that is appropriate**
 - Set the repository to **Public**, do not select a "README" at this time (since we will replace the one from the theme we will download) and select the appropriate license.
@@ -18,11 +19,12 @@ GitHub Pages requires a specific repository naming convention to automatically h
 ## Step 3: Download the Jekyll Minimal Theme ZIP from GitHub
 For my portfolio, I used the [Jekyll Minimal Theme](https://github.com/pages-themes/minimal). \
 To acquire the same template and theme, you will need to download the theme assets locally.
-- Go to the official theme repository on Github.com at (https://github.com/pages-themes/minimal)
+- Go to the official theme repository on Github.com at https://github.com/pages-themes/minimal
 - Click on the green **Code** button near the top right of the file list.
 - Select **Download ZIP** from the dropdown menu to save the theme archive to your computer.
   - Since this is a ZIP file, you can download it to your *Downloads* folders for now, as we will extract the files to your repository. \
-![Screenshot download minimal theme from github page](/assets/img/DownloadTheme.png) \
+
+![Screenshot download minimal theme from github page](/assets/img/DownloadTheme.png)
 
 ## Step 4: Log In to GitHub Desktop and Mirror/Clone the Repository
 Next, you want to me able to bring your newly created repository down to your local machine using GitHub Desktop.
@@ -35,8 +37,10 @@ Next, you want to me able to bring your newly created repository down to your lo
   - Select the repository you'd like to mirror or clone on to your local machine
   - Choose the destination on your local machine of where you would like repository to be housed.
   - Select **Clone** \
-![Screenshot for finding button for cloning repository on Desktop](/assets/img/CloneRepository1.png) \
-![Screenshot for selecting which repository to clone and identifying the destination](/assets/img/CloneRepository2.png) \
+  ![Screenshot for finding button for cloning repository on Desktop](/assets/img/CloneRepository1.png)
+
+  ![Screenshot for selecting which repository to clone and identifying the destination](/assets/img/CloneRepository2.png)
+
 - You should now see your repository cloned to your local machine as a folder.
 
 ## Step 5: Extract and Move the Theme Files
@@ -52,8 +56,10 @@ Now, we want to "push" or upload the theme files from your local directory to yo
 - Once completed, you should see that there are **"Push commits to the origin remote"** in the central part of the screen.
 - Select **"Push Origin"**
   - *Note: The screenshots below are examples of different files. Please note that you may see more files being loaded than what I display as an example below.* \
-![Screenshot for adding summary and description for committing changes](/assets/img/DescriptionPushOrigin.png) \
-![Screenshot for pushing origin](/assets/img/PushOrigin.png) \
+  ![Screenshot for adding summary and description for committing changes](/assets/img/DescriptionPushOrigin.png)
+
+  ![Screenshot for pushing origin](/assets/img/PushOrigin.png)
+
 
 ## Step 7: Configure the Minimal Theme (_config.yml)
 To make sure that Jekyll recognizes the theme, you want to set up your central configuration file:
