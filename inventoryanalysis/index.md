@@ -32,10 +32,10 @@ To ensure accurate demand and lead-time inputs, the raw transactional dataset un
 
 ### 3. Demand Distribution Classification
 To select the mathematically sound safety stock formula for each SKU, demand behavior was segmented using two statistical thresholds:
-1. **Coefficient of Variation ($\text{CV} = \frac{\sigma}{\mu}$):** SKUs with $\text{CV} \le 0.30$ exhibited stable, predictable demand and were modeled using a **Normal Distribution**:
+1. **Coefficient of Variation ( $\text{CV} = \frac{\sigma}{\mu}$ ):** SKUs with $\text{CV} \le 0.30$ exhibited stable, predictable demand and were modeled using a **Normal Distribution**:
    $$SS = z_{\alpha} \times \sigma_{d} \times \sqrt{LT}$$
-2. **Variance-to-Mean Ratio ($\text{VMR} = \frac{\sigma^2}{\mu}$):** Highly volatile SKUs ($\text{CV} > 0.30$) with $\text{VMR} \ge 1.2$ exhibited overdispersion (low baseline orders punctuated by erratic, high-quantity spikes). These items were modeled using a **negative binomial distribution** via the "method of moments" to determine reorder points ($ROP$) and corresponding safety stock:
-   $$SS = ROP - \mu_{LT}$$
+2. **Variance-to-Mean Ratio ( $\text{VMR} = \frac{\sigma^2}{\mu}$ ):** Highly volatile SKUs ( $\text{CV} > 0.30$ ) with $ \text{VMR} \ge 1.2 $ exhibited overdispersion (low baseline orders punctuated by erratic, high-quantity spikes). These items were modeled using a **negative binomial distribution** via the "method of moments" to determine reorder points ( $ROP$ ) and corresponding safety stock:
+   $ $ SS = ROP - \mu_{LT} $ $
 
 All final safety stock outputs were rounded up to whole integer units using floor/remainder logic to reflect actionable physical inventory targets.
 
