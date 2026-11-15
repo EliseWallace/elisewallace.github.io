@@ -75,3 +75,8 @@ Evaluating safety stock requirements across **75%**, **90%**, and **95%** servic
 * **Portfolio Average:** Across all 496 MTS SKUs, the average safety stock requirement is approximately **122 units**.
 
 ---
+
+## Explore the Analysis
+* [View Jupyter Notebook](./notebooks/)
+* [View data](./data/)
+* [Return to Main Portfolio](../)
