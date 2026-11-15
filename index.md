@@ -86,3 +86,4 @@ Biochemistry\
 
 ## Completed Projects
 [View my portfolio guide](/portfoliocreationprocess)
+[View my inventory analysis safety stock project](/inventoryanalysis)
