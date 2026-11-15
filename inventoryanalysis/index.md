@@ -52,5 +52,6 @@ Evaluating safety stock requirements across **75%**, **90%**, and **95%** servic
 
 ## Explore the Analysis
 * [View Combined Jupyter Notebook](./notebooks/supplychain_safetystock.ipynb)
-* [View Data](./data)
+* [View Transaction Data](./data/transaction_data.csv)
+* [View Meta Data](./data/meta_data.csv)
 * [Return to Main Portfolio](../)
