@@ -10,12 +10,12 @@ Rather than applying a uniform normal distribution formula across all items, thi
 ## Repository Structure
 ```text
 inventoryanalysis/
-├── README.md              # Project overview, findings, and accomplishments (Root)
-├── notebooks/             # Directory for code execution files
-│   └── supplychain_safetystock.ipynb     # Merged Jupyter Notebook (Assignments 1 & 2)
-└── data/                  # Directory for raw datasets
-    ├── transaction_data.csv # Raw operational transaction logs
-    └── meta_data.csv        # Schema metadata definitions
+├── README.md                              # Project overview, findings, and accomplishments (Root)
+├── notebooks/                             # Directory for code execution files
+│   └── supplychain_safetystock.ipynb      # Merged Jupyter Notebook (Assignments 1 & 2)
+└── data/                                  # Directory for raw datasets
+    ├── transaction_data.csv               # Raw operational transaction logs
+    └── meta_data.csv                      # Schema metadata definitions
 ```
 ---
 
