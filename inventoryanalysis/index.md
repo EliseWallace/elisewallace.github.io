@@ -6,7 +6,7 @@
 This project develops a data-driven framework to calculate optimal **Safety Stock (SS)** levels across inventory items. While initial descriptive analysis focused on Finished Goods (FG) under Make-to-Stock (MTS) policies, the subsequent safety stock calculations generalized across all available MTS SKUs. Rather than applying a uniform normal distribution formula across all items, this analysis evaluates demand volatility and dispersion at the SKU level to apply appropriate statistical models—preventing costly stockouts on erratic items while avoiding excess holding costs on stable products.
 
 ### Repository Structure
-* `notebooks/` — Contains the combined Jupyter Notebook (`combined.ipynb`) executing data cleansing, exploratory analysis, distribution classification, and safety stock modeling.
+* `notebooks/` — Contains the combined Jupyter Notebook (`supplychain_safetystock.ipynb`) executing data cleansing, exploratory analysis, distribution classification, and safety stock modeling.
 * `data/` — Houses the raw transactional dataset (`transaction_data.csv`) and schema metadata (`meta_data.csv`).
 
 ---
