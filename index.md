@@ -85,5 +85,5 @@ Biochemistry\
 *Sep 2008 - Mar 2010*
 
 ## Completed Projects
-[View my portfolio guide](/portfoliocreationprocess)
+[View my portfolio guide](/portfoliocreationprocess)\
 [View my inventory analysis safety stock project](/inventoryanalysis)
