@@ -48,32 +48,20 @@ To prevent stockouts on erratic items while avoiding excess holding costs on sta
 ### A. Coefficient of Variation (Normal Distribution)
 SKUs exhibiting low demand variance represent stable, predictable consumption patterns and were modeled using a Normal Distribution.
 
-$$
-\text{CV} = \frac{\sigma}{\mu}
-$$
+$$\text{CV} = \frac{\sigma}{\mu}$$
 
-$$
-\text{Classification Rule: } \text{CV} \le 0.30
-$$
+$$\text{Classification Rule: } \text{CV} \le 0.30$$
 
-$$
-SS = z_{\alpha} \times \sigma_{d} \times \sqrt{LT}
-$$
+$$SS = z_{\alpha} \times \sigma_{d} \times \sqrt{LT}$$
 
 ### B. Variance-to-Mean Ratio (Negative Binomial Distribution)
 Highly volatile SKUs with significant overdispersion featured low baseline orders punctuated by erratic, high-quantity spikes. These items were modeled using a Negative Binomial Distribution via the method of moments to determine reorder points and safety stock:
 
-$$
-\text{VMR} = \frac{\sigma^2}{\mu}
-$$
+$$\text{VMR} = \frac{\sigma^2}{\mu}$$
 
-$$
-\text{Classification Rule: } \text{CV} > 0.30 \text{ and } \text{VMR} \ge 1.2
-$$
+$$\text{Classification Rule: } \text{CV} > 0.30 \text{ and } \text{VMR} \ge 1.2$$
 
-$$
-SS = ROP - \mu_{LT}
-$$
+$$SS = ROP - \mu_{LT}$$
 
 All final safety stock outputs were rounded up to whole integer units using floor/remainder logic to establish actionable physical inventory targets.
 
