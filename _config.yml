@@ -4,4 +4,3 @@ description: My Portfolio
 show_downloads: true
 google_analytics:
 theme: jekyll-theme-minimal
-mathjax: true
