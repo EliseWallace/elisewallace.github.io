@@ -89,6 +89,6 @@ Evaluating safety stock requirements across **75%**, **90%**, and **95%** servic
 ---
 
 ## Explore the Analysis
-* [View Jupyter Notebook](./notebooks/)
-* [View data](./data/)
+* [View Jupyter Notebook](https://github.com/EliseWallace/elisewallace.github.io/tree/main/inventoryanalysis/notebooks)
+* [View data](https://github.com/EliseWallace/elisewallace.github.io/tree/main/inventoryanalysis/data)
 * [Return to Main Portfolio](../)
